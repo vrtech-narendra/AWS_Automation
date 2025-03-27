@@ -1,4 +1,4 @@
-# AWS_Automation
+# AWS_Automation_By_Narendra_From_VRTechnologies
 AWS Automation with Python, Boto3, JMESPath, Flask REST APIs &amp; AWS Lambda By Narendra from VRTechnologies
 
 ### 🚀 Coming Soon!
