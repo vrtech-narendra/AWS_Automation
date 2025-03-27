@@ -1,5 +1,5 @@
 # AWS_Automation_By_Narendra_From_VRTechnologies
-Boto3 Core Concepts Explanation to Develop Python Boto3 Scripts for AWS Automation
+Understanding Boto3 Core Concepts to Build Python Scripts for AWS Automation
 
 ### 🚀 Coming Soon!
 
@@ -8,3 +8,6 @@ Boto3 Core Concepts Explanation to Develop Python Boto3 Scripts for AWS Automati
 > Stay tuned for hands-on lessons, real-world projects, and automation best practices.
 >
 > 
+
+
+## Introduction to Boto3:
