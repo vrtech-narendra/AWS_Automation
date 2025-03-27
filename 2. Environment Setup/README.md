@@ -2,7 +2,7 @@
 
 ---
 
-# 🛠 Installing Boto3 and AWS CLI v2
+# 🛠 Installing Boto3 and AWSCLI_V2 on Windows, Linux and MacOS
 
 
 ## 📦 Windows
