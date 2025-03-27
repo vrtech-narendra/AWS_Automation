@@ -11,3 +11,4 @@ Understanding Boto3 Core Concepts to Build Python Scripts for AWS Automation
 
 
 ## Introduction to Boto3:
+> Boto3 is the official AWS SDK for Python. It allows developers and DevOps engineers to write Python scripts that interact with AWS services such as EC2, S3, IAM, Lambda, DynamoDB, and more. Boto3 provides both low-level service clients and high-level object-oriented resources to make AWS automation easier and more Pythonic.
