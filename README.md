@@ -68,15 +68,6 @@ To automate AWS tasks effectively, we use a combination of **scripting languages
 
 ---
 
-## 📚 Recommended Learning Path
-
-1. Learn the basics of **AWS CLI** and **Boto3**
-2. Start automating simple tasks using **Python scripts**
-3. Explore **IaC tools** like Terraform or CloudFormation for full-stack infrastructure provisioning
-4. Build real-world automation workflows using **event-driven architecture** and **REST APIs**
-
----
-
 ## 👨‍💻 Target Audience
 
 - DevOps Engineers
