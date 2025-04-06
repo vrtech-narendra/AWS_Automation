@@ -74,7 +74,7 @@ All scripting languages and tools communicate with AWS services using **RAW AWS 
 - Tools like **AWS CLI**, **Boto3**, **Terraform**, and the **AWS Console** use these APIs internally.
 ![How AWS Automation Works Behind the Scenes](./aws_raw_apis_are_for_every_automation.JPG)
 
-> **Note:** If you're good with REST API concepts, authentication, and XML parsing — you can directly automate AWS using **raw REST API calls** with tools like:
+> **Note:** If you're good with REST API concepts, authentication and XML parsing — you can directly automate AWS using **raw REST API calls** with tools like:
 > - `curl` (Bash)
 > - `requests` (Python)
 
