@@ -78,10 +78,4 @@ To automate AWS tasks effectively, we use a combination of **scripting languages
 
 ---
 
-## 📖 License
-
-This project/guide is open for educational use. You are free to use, modify, and share it for learning and non-commercial purposes.
-
----
-
 Happy Automating! ⚙️☁️
