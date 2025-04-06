@@ -68,7 +68,16 @@ To automate AWS tasks effectively, we use a combination of **scripting languages
 
 ---
 ### 🧠 How AWS Automation Works Behind the Scenes:
+All scripting languages and tools communicate with AWS services using **REST APIs** under the hood.
+
+- REST APIs are the **core of AWS** – they expose services like EC2, S3, IAM, etc. as programmable endpoints.
+- Tools like **AWS CLI**, **Boto3**, **Terraform**, and the **AWS Console** use these APIs internally.
 ![How AWS Automation Works Behind the Scenes](./aws_raw_apis_are_for_every_automation.JPG)
+
+> **Note:** If you're good with REST API concepts, authentication, and XML parsing — you can directly automate AWS using **raw REST API calls** with tools like:
+> - `curl` (Bash)
+> - `requests` (Python)
+
 
 ## 👨‍💻 Target Audience
 
