@@ -67,6 +67,8 @@ To automate AWS tasks effectively, we use a combination of **scripting languages
 - Maintain **consistency across environments** (dev, staging, production)
 
 ---
+### 🧠 How AWS Automation Works Behind the Scenes:
+![How AWS Automation Works Behind the Scenes](./aws_raw_apis_are_for_every_automation.JPG)
 
 ## 👨‍💻 Target Audience
 
